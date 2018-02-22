@@ -1,0 +1,22 @@
+{
+  "name": "headless-crawler",
+  "version": "1.0.0",
+  "description": "爬虫&反爬虫",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luomin941123/headless-crawler.git"
+  },
+  "author": "Romi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luomin941123/headless-crawler/issues"
+  },
+  "homepage": "https://github.com/luomin941123/headless-crawler#readme",
+  "devDependencies": {
+    "puppeteer": "^1.1.0"
+  }
+}
